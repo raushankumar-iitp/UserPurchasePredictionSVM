@@ -1,1 +1,2 @@
 # UserPurchasePredictionSVM
+This GitHub repository "UserPurchasePredictionSVM" is dedicated to the lab project on User Purchase Prediction using Support Vector Machine (SVM). It contains the complete workflow from dataset exploration and preprocessing to model building, evaluation, and visualization, enabling a practical understanding of SVM for binary classification. This lab exercise highlights both implementation from scratch and scikit-learn methods to provide comprehensive learning.
